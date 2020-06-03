@@ -1,0 +1,37 @@
+{
+    "name":"mb_validation",
+    "version":"1.0.0",
+    "location":"",
+    "author":"You",
+    "slug":"mbvalidation",
+    "createPackageDirectory":false,
+    "type":"mvc",
+    "keywords":"",
+    "homepage":"",
+    "documentation":"",
+    "repository":{
+        "type":"",
+        "url":""
+    },
+    "bugs":"",
+    "shortDescription":"",
+    "contributors":[],
+    "ignore":[],
+    "devDependencies":{
+        "testbox":"^3.0.0",
+        "route-visualizer":"^1.4.0+24"
+    },
+    "installPaths":{
+        "coldbox":"coldbox",
+        "testbox":"testbox",
+        "cbvalidation":"modules/cbvalidation/",
+        "route-visualizer":"modules/route-visualizer/",
+        "flashmessage":"modules/flashmessage/"
+    },
+    "dependencies":{
+        "coldbox":"^5.0.0",
+        "cbvalidation":"^2.1.0+126",
+        "flashmessage":"^1.2.2"
+    },
+    "scripts":{}
+}
