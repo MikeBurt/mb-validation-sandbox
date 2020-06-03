@@ -1,14 +1,6 @@
-# Simple Template
+# Validation Sandbox
 
-A simple ColdBox MVC template
-
-## License
-Apache License, Version 2.0.
-
-## Important Links
-
-Source Code
-- https://github.com/coldbox-templates/simple
+A simple app based off the ColdBox MVC template
 
 ## Quick Installation
 
@@ -26,8 +18,3 @@ box server start
 ```
 
 And run the application.
-
----
- 
-###THE DAILY BREAD
- > "I am the way, and the truth, and the life; no one comes to the Father, but by me (JESUS)" Jn 14:1-12# mb-validation-sandbox
